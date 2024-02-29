@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzoclass=self.webpackChunkzoclass||[]).push([[4592],{44592:(u,e,a)=>{a.r(e),a.d(e,{TeacherDashboardModule:()=>_});var s=a(36895),d=a(30709),h=a(79516),r=a(94650);let _=(()=>{class o{}return o.\u0275fac=function(c){return new(c||o)},o.\u0275mod=r.oAB({type:o}),o.\u0275inj=r.cJS({imports:[s.ez,d.J,h.k]}),o})()}}]);
